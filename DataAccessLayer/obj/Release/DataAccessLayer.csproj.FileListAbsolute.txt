@@ -1,0 +1,49 @@
+E:\Staff\Rajesh\EST WebProject\Sample\FreshOneOrderManagement\DataAccessLayer\bin\Release\DataAccessLayer.dll
+E:\Staff\Rajesh\EST WebProject\Sample\FreshOneOrderManagement\DataAccessLayer\bin\Release\DataAccessLayer.pdb
+E:\Staff\Rajesh\EST WebProject\Sample\FreshOneOrderManagement\DataAccessLayer\obj\Release\ResolveAssemblyReference.cache
+E:\Staff\Rajesh\EST WebProject\Sample\FreshOneOrderManagement\DataAccessLayer\obj\Release\DataAccessLayer.dll
+E:\Staff\Rajesh\EST WebProject\Sample\FreshOneOrderManagement\DataAccessLayer\obj\Release\DataAccessLayer.pdb
+E:\Staff\Rajesh\EST WebProject\OOS\FreshOneOrderManagement\DataAccessLayer\bin\Release\DataAccessLayer.dll
+E:\Staff\Rajesh\EST WebProject\OOS\FreshOneOrderManagement\DataAccessLayer\bin\Release\DataAccessLayer.pdb
+E:\Staff\Rajesh\EST WebProject\OOS\FreshOneOrderManagement\DataAccessLayer\obj\Release\ResolveAssemblyReference.cache
+E:\Staff\Rajesh\EST WebProject\OOS\FreshOneOrderManagement\DataAccessLayer\obj\Release\DataAccessLayer.dll
+E:\Staff\Rajesh\EST WebProject\OOS\FreshOneOrderManagement\DataAccessLayer\obj\Release\DataAccessLayer.pdb
+F:\Staff\Rajesh\EST\WorkingSpace\Web\FreshOne\NewOrderManagement\FreshOneOrderManagement\DataAccessLayer\bin\Release\DataAccessLayer.dll
+F:\Staff\Rajesh\EST\WorkingSpace\Web\FreshOne\NewOrderManagement\FreshOneOrderManagement\DataAccessLayer\bin\Release\DataAccessLayer.pdb
+F:\Staff\Rajesh\EST\WorkingSpace\Web\FreshOne\NewOrderManagement\FreshOneOrderManagement\DataAccessLayer\obj\Release\ResolveAssemblyReference.cache
+F:\Staff\Rajesh\EST\WorkingSpace\Web\FreshOne\NewOrderManagement\FreshOneOrderManagement\DataAccessLayer\obj\Release\DataAccessLayer.dll
+F:\Staff\Rajesh\EST\WorkingSpace\Web\FreshOne\NewOrderManagement\FreshOneOrderManagement\DataAccessLayer\obj\Release\DataAccessLayer.pdb
+F:\Staff\Ramesh\Web Project\Freshone\FreshOneOrderManagement\DataAccessLayer\bin\Release\DataAccessLayer.dll
+F:\Staff\Ramesh\Web Project\Freshone\FreshOneOrderManagement\DataAccessLayer\bin\Release\DataAccessLayer.pdb
+F:\Staff\Ramesh\Web Project\Freshone\FreshOneOrderManagement\DataAccessLayer\obj\Release\ResolveAssemblyReference.cache
+F:\Staff\Ramesh\Web Project\Freshone\FreshOneOrderManagement\DataAccessLayer\obj\Release\DataAccessLayer.dll
+F:\Staff\Ramesh\Web Project\Freshone\FreshOneOrderManagement\DataAccessLayer\obj\Release\DataAccessLayer.pdb
+E:\FreshOneOrderManagement\FreshOneOrderManagement\DataAccessLayer\bin\Release\DataAccessLayer.dll
+E:\FreshOneOrderManagement\FreshOneOrderManagement\DataAccessLayer\bin\Release\DataAccessLayer.pdb
+E:\FreshOneOrderManagement\FreshOneOrderManagement\DataAccessLayer\obj\Release\ResolveAssemblyReference.cache
+E:\FreshOneOrderManagement\FreshOneOrderManagement\DataAccessLayer\obj\Release\DataAccessLayer.dll
+E:\FreshOneOrderManagement\FreshOneOrderManagement\DataAccessLayer\obj\Release\DataAccessLayer.pdb
+E:\Karthikeyan\Working Samples\Web\FreshOneOrderManagement\DataAccessLayer\bin\Release\DataAccessLayer.dll
+E:\Karthikeyan\Working Samples\Web\FreshOneOrderManagement\DataAccessLayer\bin\Release\DataAccessLayer.pdb
+E:\Karthikeyan\Working Samples\Web\FreshOneOrderManagement\DataAccessLayer\obj\Release\ResolveAssemblyReference.cache
+E:\Karthikeyan\Working Samples\Web\FreshOneOrderManagement\DataAccessLayer\obj\Release\DataAccessLayer.dll
+E:\Karthikeyan\Working Samples\Web\FreshOneOrderManagement\DataAccessLayer\obj\Release\DataAccessLayer.pdb
+E:\Karthikeyan\Working Samples\Web\FreshOneOrderManagementnew\FreshOneOrderManagement\DataAccessLayer\bin\Release\DataAccessLayer.dll
+E:\Karthikeyan\Working Samples\Web\FreshOneOrderManagementnew\FreshOneOrderManagement\DataAccessLayer\bin\Release\DataAccessLayer.pdb
+E:\Karthikeyan\Working Samples\Web\FreshOneOrderManagementnew\FreshOneOrderManagement\DataAccessLayer\obj\Release\ResolveAssemblyReference.cache
+E:\Karthikeyan\Working Samples\Web\FreshOneOrderManagementnew\FreshOneOrderManagement\DataAccessLayer\obj\Release\DataAccessLayer.dll
+E:\Karthikeyan\Working Samples\Web\FreshOneOrderManagementnew\FreshOneOrderManagement\DataAccessLayer\obj\Release\DataAccessLayer.pdb
+E:\Karthikeyan\Work Space\Working Samples\Web\FreshOneOrderManagementnew\FreshOneOrderManagement\DataAccessLayer\bin\Release\DataAccessLayer.dll
+E:\Karthikeyan\Work Space\Working Samples\Web\FreshOneOrderManagementnew\FreshOneOrderManagement\DataAccessLayer\bin\Release\DataAccessLayer.pdb
+E:\Karthikeyan\Work Space\Working Samples\Web\FreshOneOrderManagementnew\FreshOneOrderManagement\DataAccessLayer\obj\Release\ResolveAssemblyReference.cache
+E:\Karthikeyan\Work Space\Working Samples\Web\FreshOneOrderManagementnew\FreshOneOrderManagement\DataAccessLayer\obj\Release\DataAccessLayer.dll
+E:\Karthikeyan\Work Space\Working Samples\Web\FreshOneOrderManagementnew\FreshOneOrderManagement\DataAccessLayer\obj\Release\DataAccessLayer.pdb
+D:\Karthikeyan\Work Space\Working Samples\Web\Latest-OOS Design\Freshoos\DataAccessLayer\bin\Release\DataAccessLayer.dll
+D:\Karthikeyan\Work Space\Working Samples\Web\Latest-OOS Design\Freshoos\DataAccessLayer\bin\Release\DataAccessLayer.pdb
+D:\Karthikeyan\Work Space\Working Samples\Web\Latest-OOS Design\Freshoos\DataAccessLayer\obj\Release\DataAccessLayer.dll
+D:\Karthikeyan\Work Space\Working Samples\Web\Latest-OOS Design\Freshoos\DataAccessLayer\obj\Release\DataAccessLayer.pdb
+E:\Here it's\FreshOne - OMS_Backup\Source_Edit\Freshoos\Freshoos\DataAccessLayer\bin\Release\DataAccessLayer.dll
+E:\Here it's\FreshOne - OMS_Backup\Source_Edit\Freshoos\Freshoos\DataAccessLayer\bin\Release\DataAccessLayer.pdb
+E:\Here it's\FreshOne - OMS_Backup\Source_Edit\Freshoos\Freshoos\DataAccessLayer\obj\Release\DataAccessLayer.dll
+E:\Here it's\FreshOne - OMS_Backup\Source_Edit\Freshoos\Freshoos\DataAccessLayer\obj\Release\DataAccessLayer.pdb
+E:\Here it's\FreshOne - OMS_Backup\Source_Edit\Freshoos\Freshoos\DataAccessLayer\obj\Release\DataAccessLayer.csprojResolveAssemblyReference.cache

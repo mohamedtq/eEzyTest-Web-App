@@ -1,0 +1,113 @@
+#toplabel{
+float:right;
+margin-right:40px;
+font-size:20px;
+line-height:24px;
+height:128px;
+}
+
+.top{
+height:128px;
+width:100%;	
+}
+
+#footer{
+	margin-top:464px;
+}
+#footertext{
+	color:white;
+	text-align:center;
+	padding-top: 8px;
+}
+#logoalign{
+	padding: 9px 10px 2px 10px;
+margin-left: 21px;
+width:110px;
+height:110px;
+margin-top:15px;
+
+}
+#welcometext{
+	margin-left: 16px;
+margin-right: -250px;
+margin-top: 46px;
+font-size: 21px;
+}
+#date{
+	margin-top: -45px;
+margin-right: 209px;
+font-size: 17px;
+}
+#usericon{
+margin-right: 314px;
+margin-top: 37px;
+float: right;
+border-radius: 50%;
+behaviour: url(PIE.htc);
+width:80px;
+height:80px;
+background:rgba(93,179,199,0.20);
+}
+#footer{
+	font-size:13px;
+	text-align:center;
+}
+#canvas{
+	margin-top: -33px;
+}
+#labelprofile {
+    border: 1px solid #ddd;
+    padding: 35px 73px;
+    background: white;
+    width: 300px;
+    border-radius: 8px;
+    box-shadow: 1px 1px 1px  1px #eee;
+    -webkit-box-shadow: 1px 1px 1px  1px #eee;
+    box-shadow: 3.5px 3.5px  3.5px #eee;
+    margin-top: 45px;
+margin-left: 146px;
+}
+#userphoto{
+	height:80px;
+	width:80px;
+	border-radius:50px;
+	background-color:grey;
+	float: left;
+margin-top: -1px;
+margin-left: -42px;
+}
+#label{
+	width: 200px;
+margin-top: 8px;
+font-size: 17px;
+white-space: nowrap;
+margin-left: 90px;
+}
+#profilearea{
+    padding: 50px 55px;
+    background: white;
+    width: 80%;
+    height:200%;
+    border-radius: 25px;
+    margin-top: 45px;
+margin-left: 49px;
+}
+#datatable{
+	margin-top: -46px;
+margin-left: 33px;
+}
+.redline {
+border-right: 3px solid #DA2E2E;
+}
+::-webkit-input-placeholder {
+  font-style:italic;
+  font-size:16px;
+  color:black;
+  letter-spacing:3px;
+  padding-left:
+}
+#datatablepopup{
+     border-collapse: collapse;
+border-radius: 20px;
+	
+}

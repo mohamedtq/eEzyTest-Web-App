@@ -1,0 +1,125 @@
+F:\Staff\Rajesh\EST\WorkingSpace\Web\FreshOne\NewOrderManagement\FreshOneOrderManagement\BusinessComponent\bin\Debug\BusinessComponent.dll
+F:\Staff\Rajesh\EST\WorkingSpace\Web\FreshOne\NewOrderManagement\FreshOneOrderManagement\BusinessComponent\bin\Debug\BusinessComponent.pdb
+F:\Staff\Rajesh\EST\WorkingSpace\Web\FreshOne\NewOrderManagement\FreshOneOrderManagement\BusinessComponent\bin\Debug\DataAccessLayer.dll
+F:\Staff\Rajesh\EST\WorkingSpace\Web\FreshOne\NewOrderManagement\FreshOneOrderManagement\BusinessComponent\bin\Debug\DataAccessLayer.pdb
+F:\Staff\Rajesh\EST\WorkingSpace\Web\FreshOne\NewOrderManagement\FreshOneOrderManagement\BusinessComponent\obj\Debug\ResolveAssemblyReference.cache
+F:\Staff\Rajesh\EST\WorkingSpace\Web\FreshOne\NewOrderManagement\FreshOneOrderManagement\BusinessComponent\obj\Debug\BusinessComponent.dll
+F:\Staff\Rajesh\EST\WorkingSpace\Web\FreshOne\NewOrderManagement\FreshOneOrderManagement\BusinessComponent\obj\Debug\BusinessComponent.pdb
+E:\Staff\Rajesh\EST WebProject\Sample\FreshOneOrderManagement\BusinessComponent\bin\Debug\BusinessComponent.dll
+E:\Staff\Rajesh\EST WebProject\Sample\FreshOneOrderManagement\BusinessComponent\bin\Debug\BusinessComponent.pdb
+E:\Staff\Rajesh\EST WebProject\Sample\FreshOneOrderManagement\BusinessComponent\bin\Debug\DataAccessLayer.pdb
+E:\Staff\Rajesh\EST WebProject\Sample\FreshOneOrderManagement\BusinessComponent\obj\Debug\ResolveAssemblyReference.cache
+E:\Staff\Rajesh\EST WebProject\Sample\FreshOneOrderManagement\BusinessComponent\obj\Debug\BusinessComponent.dll
+E:\Staff\Rajesh\EST WebProject\Sample\FreshOneOrderManagement\BusinessComponent\obj\Debug\BusinessComponent.pdb
+E:\Staff\Rajesh\EST WebProject\OOS\FreshOneOrderManagement\BusinessComponent\bin\Debug\BusinessComponent.dll
+E:\Staff\Rajesh\EST WebProject\OOS\FreshOneOrderManagement\BusinessComponent\bin\Debug\BusinessComponent.pdb
+E:\Staff\Rajesh\EST WebProject\OOS\FreshOneOrderManagement\BusinessComponent\bin\Debug\DataAccessLayer.dll
+E:\Staff\Rajesh\EST WebProject\OOS\FreshOneOrderManagement\BusinessComponent\bin\Debug\DataAccessLayer.pdb
+E:\Staff\Rajesh\EST WebProject\OOS\FreshOneOrderManagement\BusinessComponent\obj\Debug\ResolveAssemblyReference.cache
+E:\Staff\Rajesh\EST WebProject\OOS\FreshOneOrderManagement\BusinessComponent\obj\Debug\BusinessComponent.dll
+E:\Staff\Rajesh\EST WebProject\OOS\FreshOneOrderManagement\BusinessComponent\obj\Debug\BusinessComponent.pdb
+E:\Working_Folder\Freshoos\BusinessComponent\bin\Debug\BusinessComponent.dll
+E:\Working_Folder\Freshoos\BusinessComponent\bin\Debug\BusinessComponent.pdb
+E:\Working_Folder\Freshoos\BusinessComponent\bin\Debug\DataAccessLayer.dll
+E:\Working_Folder\Freshoos\BusinessComponent\bin\Debug\DataAccessLayer.pdb
+E:\Working_Folder\Freshoos\BusinessComponent\obj\Debug\ResolveAssemblyReference.cache
+E:\Working_Folder\Freshoos\BusinessComponent\obj\Debug\BusinessComponent.dll
+E:\Working_Folder\Freshoos\BusinessComponent\obj\Debug\BusinessComponent.pdb
+C:\Users\user\Desktop\Freshoos\BusinessComponent\bin\Debug\BusinessComponent.dll
+C:\Users\user\Desktop\Freshoos\BusinessComponent\bin\Debug\BusinessComponent.pdb
+C:\Users\user\Desktop\Freshoos\BusinessComponent\bin\Debug\DataAccessLayer.dll
+C:\Users\user\Desktop\Freshoos\BusinessComponent\bin\Debug\DataAccessLayer.pdb
+C:\Users\user\Desktop\Freshoos\BusinessComponent\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\Freshoos\BusinessComponent\obj\Debug\BusinessComponent.dll
+C:\Users\user\Desktop\Freshoos\BusinessComponent\obj\Debug\BusinessComponent.pdb
+C:\Users\ESTSSYS6\Desktop\Freshoos\BusinessComponent\bin\Debug\BusinessComponent.dll
+C:\Users\ESTSSYS6\Desktop\Freshoos\BusinessComponent\bin\Debug\BusinessComponent.pdb
+C:\Users\ESTSSYS6\Desktop\Freshoos\BusinessComponent\bin\Debug\DataAccessLayer.dll
+C:\Users\ESTSSYS6\Desktop\Freshoos\BusinessComponent\bin\Debug\DataAccessLayer.pdb
+C:\Users\ESTSSYS6\Desktop\Freshoos\BusinessComponent\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ESTSSYS6\Desktop\Freshoos\BusinessComponent\obj\Debug\BusinessComponent.dll
+C:\Users\ESTSSYS6\Desktop\Freshoos\BusinessComponent\obj\Debug\BusinessComponent.pdb
+E:\Freshoos\BusinessComponent\bin\Debug\BusinessComponent.dll
+E:\Freshoos\BusinessComponent\bin\Debug\BusinessComponent.pdb
+E:\Freshoos\BusinessComponent\bin\Debug\DataAccessLayer.dll
+E:\Freshoos\BusinessComponent\bin\Debug\DataAccessLayer.pdb
+E:\Freshoos\BusinessComponent\obj\Debug\ResolveAssemblyReference.cache
+E:\Freshoos\BusinessComponent\obj\Debug\BusinessComponent.dll
+E:\Freshoos\BusinessComponent\obj\Debug\BusinessComponent.pdb
+E:\Karthikeyan\Work Space\Working Samples\Web\Freshoos\BusinessComponent\bin\Debug\BusinessComponent.dll
+E:\Karthikeyan\Work Space\Working Samples\Web\Freshoos\BusinessComponent\bin\Debug\BusinessComponent.pdb
+E:\Karthikeyan\Work Space\Working Samples\Web\Freshoos\BusinessComponent\bin\Debug\DataAccessLayer.dll
+E:\Karthikeyan\Work Space\Working Samples\Web\Freshoos\BusinessComponent\bin\Debug\DataAccessLayer.pdb
+E:\Karthikeyan\Work Space\Working Samples\Web\Freshoos\BusinessComponent\obj\Debug\ResolveAssemblyReference.cache
+E:\Karthikeyan\Work Space\Working Samples\Web\Freshoos\BusinessComponent\obj\Debug\BusinessComponent.dll
+E:\Karthikeyan\Work Space\Working Samples\Web\Freshoos\BusinessComponent\obj\Debug\BusinessComponent.pdb
+G:\Projects\Latest\Freshoos\BusinessComponent\bin\Debug\BusinessComponent.dll
+G:\Projects\Latest\Freshoos\BusinessComponent\bin\Debug\BusinessComponent.pdb
+G:\Projects\Latest\Freshoos\BusinessComponent\bin\Debug\DataAccessLayer.dll
+G:\Projects\Latest\Freshoos\BusinessComponent\bin\Debug\DataAccessLayer.pdb
+G:\Projects\Latest\Freshoos\BusinessComponent\obj\Debug\ResolveAssemblyReference.cache
+G:\Projects\Latest\Freshoos\BusinessComponent\obj\Debug\BusinessComponent.dll
+G:\Projects\Latest\Freshoos\BusinessComponent\obj\Debug\BusinessComponent.pdb
+E:\Karthikeyan\Work Space\Working Samples\Web\Latest\Freshoos\BusinessComponent\bin\Debug\BusinessComponent.dll
+E:\Karthikeyan\Work Space\Working Samples\Web\Latest\Freshoos\BusinessComponent\bin\Debug\BusinessComponent.pdb
+E:\Karthikeyan\Work Space\Working Samples\Web\Latest\Freshoos\BusinessComponent\bin\Debug\DataAccessLayer.dll
+E:\Karthikeyan\Work Space\Working Samples\Web\Latest\Freshoos\BusinessComponent\bin\Debug\DataAccessLayer.pdb
+E:\Karthikeyan\Work Space\Working Samples\Web\Latest\Freshoos\BusinessComponent\obj\Debug\ResolveAssemblyReference.cache
+E:\Karthikeyan\Work Space\Working Samples\Web\Latest\Freshoos\BusinessComponent\obj\Debug\BusinessComponent.dll
+E:\Karthikeyan\Work Space\Working Samples\Web\Latest\Freshoos\BusinessComponent\obj\Debug\BusinessComponent.pdb
+D:\Karthikeyan\Work Space\Working Samples\Web\Latest-OOS Design\Freshoos\BusinessComponent\bin\Debug\BusinessComponent.dll
+D:\Karthikeyan\Work Space\Working Samples\Web\Latest-OOS Design\Freshoos\BusinessComponent\bin\Debug\BusinessComponent.pdb
+D:\Karthikeyan\Work Space\Working Samples\Web\Latest-OOS Design\Freshoos\BusinessComponent\bin\Debug\DataAccessLayer.dll
+D:\Karthikeyan\Work Space\Working Samples\Web\Latest-OOS Design\Freshoos\BusinessComponent\bin\Debug\DataAccessLayer.pdb
+D:\Karthikeyan\Work Space\Working Samples\Web\Latest-OOS Design\Freshoos\BusinessComponent\obj\Debug\BusinessComponent.csprojResolveAssemblyReference.cache
+D:\Karthikeyan\Work Space\Working Samples\Web\Latest-OOS Design\Freshoos\BusinessComponent\obj\Debug\BusinessComponent.dll
+D:\Karthikeyan\Work Space\Working Samples\Web\Latest-OOS Design\Freshoos\BusinessComponent\obj\Debug\BusinessComponent.pdb
+E:\d\Karthikeyan\Work Space\Working Samples\Web\Latest-OOS Design\Freshoos\BusinessComponent\bin\Debug\BusinessComponent.dll
+E:\d\Karthikeyan\Work Space\Working Samples\Web\Latest-OOS Design\Freshoos\BusinessComponent\bin\Debug\BusinessComponent.pdb
+E:\d\Karthikeyan\Work Space\Working Samples\Web\Latest-OOS Design\Freshoos\BusinessComponent\bin\Debug\DataAccessLayer.dll
+E:\d\Karthikeyan\Work Space\Working Samples\Web\Latest-OOS Design\Freshoos\BusinessComponent\bin\Debug\DataAccessLayer.pdb
+E:\d\Karthikeyan\Work Space\Working Samples\Web\Latest-OOS Design\Freshoos\BusinessComponent\obj\Debug\BusinessComponent.csprojResolveAssemblyReference.cache
+E:\d\Karthikeyan\Work Space\Working Samples\Web\Latest-OOS Design\Freshoos\BusinessComponent\obj\Debug\BusinessComponent.dll
+E:\d\Karthikeyan\Work Space\Working Samples\Web\Latest-OOS Design\Freshoos\BusinessComponent\obj\Debug\BusinessComponent.pdb
+E:\d\WorkSpace\Source\Web\Latest-OOS Design\Freshoos\BusinessComponent\bin\Debug\BusinessComponent.dll
+E:\d\WorkSpace\Source\Web\Latest-OOS Design\Freshoos\BusinessComponent\bin\Debug\BusinessComponent.pdb
+E:\d\WorkSpace\Source\Web\Latest-OOS Design\Freshoos\BusinessComponent\bin\Debug\DataAccessLayer.dll
+E:\d\WorkSpace\Source\Web\Latest-OOS Design\Freshoos\BusinessComponent\bin\Debug\DataAccessLayer.pdb
+E:\d\WorkSpace\Source\Web\Latest-OOS Design\Freshoos\BusinessComponent\obj\Debug\BusinessComponent.csprojResolveAssemblyReference.cache
+E:\d\WorkSpace\Source\Web\Latest-OOS Design\Freshoos\BusinessComponent\obj\Debug\BusinessComponent.dll
+E:\d\WorkSpace\Source\Web\Latest-OOS Design\Freshoos\BusinessComponent\obj\Debug\BusinessComponent.pdb
+E:\F1\FreshOneOOS Live\Freshoos\BusinessComponent\bin\Debug\BusinessComponent.dll
+E:\F1\FreshOneOOS Live\Freshoos\BusinessComponent\bin\Debug\BusinessComponent.pdb
+E:\F1\FreshOneOOS Live\Freshoos\BusinessComponent\bin\Debug\DataAccessLayer.dll
+E:\F1\FreshOneOOS Live\Freshoos\BusinessComponent\bin\Debug\DataAccessLayer.pdb
+E:\F1\FreshOneOOS Live\Freshoos\BusinessComponent\obj\Debug\BusinessComponent.csprojResolveAssemblyReference.cache
+E:\F1\FreshOneOOS Live\Freshoos\BusinessComponent\obj\Debug\BusinessComponent.dll
+E:\F1\FreshOneOOS Live\Freshoos\BusinessComponent\obj\Debug\BusinessComponent.pdb
+C:\Users\ESTSYS3\Desktop\FreshOneBack Up\Freshoos\BusinessComponent\bin\Debug\BusinessComponent.dll
+C:\Users\ESTSYS3\Desktop\FreshOneBack Up\Freshoos\BusinessComponent\bin\Debug\BusinessComponent.pdb
+C:\Users\ESTSYS3\Desktop\FreshOneBack Up\Freshoos\BusinessComponent\bin\Debug\DataAccessLayer.dll
+C:\Users\ESTSYS3\Desktop\FreshOneBack Up\Freshoos\BusinessComponent\bin\Debug\DataAccessLayer.pdb
+C:\Users\ESTSYS3\Desktop\FreshOneBack Up\Freshoos\BusinessComponent\obj\Debug\BusinessComponent.csprojResolveAssemblyReference.cache
+C:\Users\ESTSYS3\Desktop\FreshOneBack Up\Freshoos\BusinessComponent\obj\Debug\BusinessComponent.dll
+C:\Users\ESTSYS3\Desktop\FreshOneBack Up\Freshoos\BusinessComponent\obj\Debug\BusinessComponent.pdb
+E:\Here it's\Freshoos\Freshoos\BusinessComponent\bin\Debug\BusinessComponent.dll
+E:\Here it's\Freshoos\Freshoos\BusinessComponent\bin\Debug\BusinessComponent.pdb
+E:\Here it's\Freshoos\Freshoos\BusinessComponent\bin\Debug\DataAccessLayer.dll
+E:\Here it's\Freshoos\Freshoos\BusinessComponent\bin\Debug\DataAccessLayer.pdb
+E:\Here it's\Freshoos\Freshoos\BusinessComponent\obj\Debug\BusinessComponent.csprojResolveAssemblyReference.cache
+E:\Here it's\Freshoos\Freshoos\BusinessComponent\obj\Debug\BusinessComponent.dll
+E:\Here it's\Freshoos\Freshoos\BusinessComponent\obj\Debug\BusinessComponent.pdb
+E:\Here it's\FreshOne - OMS_Backup\Source_Edit\Freshoos\Freshoos\BusinessComponent\bin\Debug\BusinessComponent.dll
+E:\Here it's\FreshOne - OMS_Backup\Source_Edit\Freshoos\Freshoos\BusinessComponent\bin\Debug\BusinessComponent.pdb
+E:\Here it's\FreshOne - OMS_Backup\Source_Edit\Freshoos\Freshoos\BusinessComponent\bin\Debug\DataAccessLayer.dll
+E:\Here it's\FreshOne - OMS_Backup\Source_Edit\Freshoos\Freshoos\BusinessComponent\bin\Debug\DataAccessLayer.pdb
+E:\Here it's\FreshOne - OMS_Backup\Source_Edit\Freshoos\Freshoos\BusinessComponent\obj\Debug\BusinessComponent.dll
+E:\Here it's\FreshOne - OMS_Backup\Source_Edit\Freshoos\Freshoos\BusinessComponent\obj\Debug\BusinessComponent.pdb
+E:\Here it's\FreshOne - OMS_Backup\Source_Edit\Freshoos\Freshoos\BusinessComponent\obj\Debug\BusinessComponent.csprojResolveAssemblyReference.cache
+E:\Projects\eEzyTest\BusinessComponent\bin\Debug\BusinessComponent.dll
+E:\Projects\eEzyTest\BusinessComponent\bin\Debug\BusinessComponent.pdb
+E:\Projects\eEzyTest\BusinessComponent\bin\Debug\DataAccessLayer.dll
+E:\Projects\eEzyTest\BusinessComponent\bin\Debug\DataAccessLayer.pdb
+E:\Projects\eEzyTest\BusinessComponent\obj\Debug\BusinessComponent.csprojResolveAssemblyReference.cache
+E:\Projects\eEzyTest\BusinessComponent\obj\Debug\BusinessComponent.dll
+E:\Projects\eEzyTest\BusinessComponent\obj\Debug\BusinessComponent.pdb

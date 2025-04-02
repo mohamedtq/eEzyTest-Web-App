@@ -1,0 +1,71 @@
+E:\Staff\Rajesh\EST WebProject\Sample\FreshOneOrderManagement\BusinessComponent\bin\Release\BusinessComponent.dll
+E:\Staff\Rajesh\EST WebProject\Sample\FreshOneOrderManagement\BusinessComponent\bin\Release\BusinessComponent.pdb
+E:\Staff\Rajesh\EST WebProject\Sample\FreshOneOrderManagement\BusinessComponent\bin\Release\DataAccessLayer.dll
+E:\Staff\Rajesh\EST WebProject\Sample\FreshOneOrderManagement\BusinessComponent\bin\Debug\BusinessComponent.dll
+E:\Staff\Rajesh\EST WebProject\Sample\FreshOneOrderManagement\BusinessComponent\bin\Debug\BusinessComponent.pdb
+E:\Staff\Rajesh\EST WebProject\Sample\FreshOneOrderManagement\BusinessComponent\obj\Release\ResolveAssemblyReference.cache
+E:\Staff\Rajesh\EST WebProject\Sample\FreshOneOrderManagement\BusinessComponent\obj\Release\BusinessComponent.dll
+E:\Staff\Rajesh\EST WebProject\Sample\FreshOneOrderManagement\BusinessComponent\obj\Release\BusinessComponent.pdb
+E:\Staff\Rajesh\EST WebProject\OOS\FreshOneOrderManagement\BusinessComponent\bin\Release\BusinessComponent.dll
+E:\Staff\Rajesh\EST WebProject\OOS\FreshOneOrderManagement\BusinessComponent\bin\Release\BusinessComponent.pdb
+E:\Staff\Rajesh\EST WebProject\OOS\FreshOneOrderManagement\BusinessComponent\bin\Release\DataAccessLayer.dll
+E:\Staff\Rajesh\EST WebProject\OOS\FreshOneOrderManagement\BusinessComponent\bin\Release\DataAccessLayer.pdb
+E:\Staff\Rajesh\EST WebProject\OOS\FreshOneOrderManagement\BusinessComponent\obj\Release\ResolveAssemblyReference.cache
+E:\Staff\Rajesh\EST WebProject\OOS\FreshOneOrderManagement\BusinessComponent\obj\Release\BusinessComponent.dll
+E:\Staff\Rajesh\EST WebProject\OOS\FreshOneOrderManagement\BusinessComponent\obj\Release\BusinessComponent.pdb
+F:\Staff\Rajesh\EST\WorkingSpace\Web\FreshOne\NewOrderManagement\FreshOneOrderManagement\BusinessComponent\bin\Release\BusinessComponent.dll
+F:\Staff\Rajesh\EST\WorkingSpace\Web\FreshOne\NewOrderManagement\FreshOneOrderManagement\BusinessComponent\bin\Release\BusinessComponent.pdb
+F:\Staff\Rajesh\EST\WorkingSpace\Web\FreshOne\NewOrderManagement\FreshOneOrderManagement\BusinessComponent\bin\Release\DataAccessLayer.dll
+F:\Staff\Rajesh\EST\WorkingSpace\Web\FreshOne\NewOrderManagement\FreshOneOrderManagement\BusinessComponent\bin\Release\DataAccessLayer.pdb
+F:\Staff\Rajesh\EST\WorkingSpace\Web\FreshOne\NewOrderManagement\FreshOneOrderManagement\BusinessComponent\obj\Release\ResolveAssemblyReference.cache
+F:\Staff\Rajesh\EST\WorkingSpace\Web\FreshOne\NewOrderManagement\FreshOneOrderManagement\BusinessComponent\obj\Release\BusinessComponent.dll
+F:\Staff\Rajesh\EST\WorkingSpace\Web\FreshOne\NewOrderManagement\FreshOneOrderManagement\BusinessComponent\obj\Release\BusinessComponent.pdb
+F:\Staff\Ramesh\Web Project\Freshone\FreshOneOrderManagement\BusinessComponent\bin\Release\BusinessComponent.dll
+F:\Staff\Ramesh\Web Project\Freshone\FreshOneOrderManagement\BusinessComponent\bin\Release\BusinessComponent.pdb
+F:\Staff\Ramesh\Web Project\Freshone\FreshOneOrderManagement\BusinessComponent\bin\Release\DataAccessLayer.dll
+F:\Staff\Ramesh\Web Project\Freshone\FreshOneOrderManagement\BusinessComponent\bin\Release\DataAccessLayer.pdb
+F:\Staff\Ramesh\Web Project\Freshone\FreshOneOrderManagement\BusinessComponent\obj\Release\ResolveAssemblyReference.cache
+F:\Staff\Ramesh\Web Project\Freshone\FreshOneOrderManagement\BusinessComponent\obj\Release\BusinessComponent.dll
+F:\Staff\Ramesh\Web Project\Freshone\FreshOneOrderManagement\BusinessComponent\obj\Release\BusinessComponent.pdb
+E:\FreshOneOrderManagement\FreshOneOrderManagement\BusinessComponent\bin\Release\BusinessComponent.dll
+E:\FreshOneOrderManagement\FreshOneOrderManagement\BusinessComponent\bin\Release\BusinessComponent.pdb
+E:\FreshOneOrderManagement\FreshOneOrderManagement\BusinessComponent\bin\Release\DataAccessLayer.dll
+E:\FreshOneOrderManagement\FreshOneOrderManagement\BusinessComponent\bin\Release\DataAccessLayer.pdb
+E:\FreshOneOrderManagement\FreshOneOrderManagement\BusinessComponent\obj\Release\ResolveAssemblyReference.cache
+E:\FreshOneOrderManagement\FreshOneOrderManagement\BusinessComponent\obj\Release\BusinessComponent.dll
+E:\FreshOneOrderManagement\FreshOneOrderManagement\BusinessComponent\obj\Release\BusinessComponent.pdb
+E:\Karthikeyan\Working Samples\Web\FreshOneOrderManagement\BusinessComponent\bin\Release\BusinessComponent.dll
+E:\Karthikeyan\Working Samples\Web\FreshOneOrderManagement\BusinessComponent\bin\Release\BusinessComponent.pdb
+E:\Karthikeyan\Working Samples\Web\FreshOneOrderManagement\BusinessComponent\bin\Release\DataAccessLayer.dll
+E:\Karthikeyan\Working Samples\Web\FreshOneOrderManagement\BusinessComponent\bin\Release\DataAccessLayer.pdb
+E:\Karthikeyan\Working Samples\Web\FreshOneOrderManagement\BusinessComponent\obj\Release\ResolveAssemblyReference.cache
+E:\Karthikeyan\Working Samples\Web\FreshOneOrderManagement\BusinessComponent\obj\Release\BusinessComponent.dll
+E:\Karthikeyan\Working Samples\Web\FreshOneOrderManagement\BusinessComponent\obj\Release\BusinessComponent.pdb
+E:\Karthikeyan\Working Samples\Web\FreshOneOrderManagementnew\FreshOneOrderManagement\BusinessComponent\bin\Release\BusinessComponent.dll
+E:\Karthikeyan\Working Samples\Web\FreshOneOrderManagementnew\FreshOneOrderManagement\BusinessComponent\bin\Release\BusinessComponent.pdb
+E:\Karthikeyan\Working Samples\Web\FreshOneOrderManagementnew\FreshOneOrderManagement\BusinessComponent\bin\Release\DataAccessLayer.dll
+E:\Karthikeyan\Working Samples\Web\FreshOneOrderManagementnew\FreshOneOrderManagement\BusinessComponent\bin\Release\DataAccessLayer.pdb
+E:\Karthikeyan\Working Samples\Web\FreshOneOrderManagementnew\FreshOneOrderManagement\BusinessComponent\obj\Release\ResolveAssemblyReference.cache
+E:\Karthikeyan\Working Samples\Web\FreshOneOrderManagementnew\FreshOneOrderManagement\BusinessComponent\obj\Release\BusinessComponent.dll
+E:\Karthikeyan\Working Samples\Web\FreshOneOrderManagementnew\FreshOneOrderManagement\BusinessComponent\obj\Release\BusinessComponent.pdb
+E:\Karthikeyan\Work Space\Working Samples\Web\FreshOneOrderManagementnew\FreshOneOrderManagement\BusinessComponent\bin\Release\BusinessComponent.dll
+E:\Karthikeyan\Work Space\Working Samples\Web\FreshOneOrderManagementnew\FreshOneOrderManagement\BusinessComponent\bin\Release\BusinessComponent.pdb
+E:\Karthikeyan\Work Space\Working Samples\Web\FreshOneOrderManagementnew\FreshOneOrderManagement\BusinessComponent\bin\Release\DataAccessLayer.dll
+E:\Karthikeyan\Work Space\Working Samples\Web\FreshOneOrderManagementnew\FreshOneOrderManagement\BusinessComponent\bin\Release\DataAccessLayer.pdb
+E:\Karthikeyan\Work Space\Working Samples\Web\FreshOneOrderManagementnew\FreshOneOrderManagement\BusinessComponent\obj\Release\ResolveAssemblyReference.cache
+E:\Karthikeyan\Work Space\Working Samples\Web\FreshOneOrderManagementnew\FreshOneOrderManagement\BusinessComponent\obj\Release\BusinessComponent.dll
+E:\Karthikeyan\Work Space\Working Samples\Web\FreshOneOrderManagementnew\FreshOneOrderManagement\BusinessComponent\obj\Release\BusinessComponent.pdb
+D:\Karthikeyan\Work Space\Working Samples\Web\Latest-OOS Design\Freshoos\BusinessComponent\bin\Release\BusinessComponent.dll
+D:\Karthikeyan\Work Space\Working Samples\Web\Latest-OOS Design\Freshoos\BusinessComponent\bin\Release\BusinessComponent.pdb
+D:\Karthikeyan\Work Space\Working Samples\Web\Latest-OOS Design\Freshoos\BusinessComponent\bin\Release\DataAccessLayer.dll
+D:\Karthikeyan\Work Space\Working Samples\Web\Latest-OOS Design\Freshoos\BusinessComponent\bin\Release\DataAccessLayer.pdb
+D:\Karthikeyan\Work Space\Working Samples\Web\Latest-OOS Design\Freshoos\BusinessComponent\obj\Release\BusinessComponent.csprojResolveAssemblyReference.cache
+D:\Karthikeyan\Work Space\Working Samples\Web\Latest-OOS Design\Freshoos\BusinessComponent\obj\Release\BusinessComponent.dll
+D:\Karthikeyan\Work Space\Working Samples\Web\Latest-OOS Design\Freshoos\BusinessComponent\obj\Release\BusinessComponent.pdb
+E:\Here it's\FreshOne - OMS_Backup\Source_Edit\Freshoos\Freshoos\BusinessComponent\bin\Release\BusinessComponent.dll
+E:\Here it's\FreshOne - OMS_Backup\Source_Edit\Freshoos\Freshoos\BusinessComponent\bin\Release\BusinessComponent.pdb
+E:\Here it's\FreshOne - OMS_Backup\Source_Edit\Freshoos\Freshoos\BusinessComponent\bin\Release\DataAccessLayer.dll
+E:\Here it's\FreshOne - OMS_Backup\Source_Edit\Freshoos\Freshoos\BusinessComponent\bin\Release\DataAccessLayer.pdb
+E:\Here it's\FreshOne - OMS_Backup\Source_Edit\Freshoos\Freshoos\BusinessComponent\obj\Release\BusinessComponent.csprojResolveAssemblyReference.cache
+E:\Here it's\FreshOne - OMS_Backup\Source_Edit\Freshoos\Freshoos\BusinessComponent\obj\Release\BusinessComponent.dll
+E:\Here it's\FreshOne - OMS_Backup\Source_Edit\Freshoos\Freshoos\BusinessComponent\obj\Release\BusinessComponent.pdb

@@ -1,0 +1,79 @@
+F:\Staff\Rajesh\EST\WorkingSpace\Web\FreshOne\NewOrderManagement\FreshOneOrderManagement\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+F:\Staff\Rajesh\EST\WorkingSpace\Web\FreshOne\NewOrderManagement\FreshOneOrderManagement\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+F:\Staff\Rajesh\EST\WorkingSpace\Web\FreshOne\NewOrderManagement\FreshOneOrderManagement\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+F:\Staff\Rajesh\EST\WorkingSpace\Web\FreshOne\NewOrderManagement\FreshOneOrderManagement\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+F:\Staff\Rajesh\EST\WorkingSpace\Web\FreshOne\NewOrderManagement\FreshOneOrderManagement\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\Staff\Rajesh\EST WebProject\OOS\FreshOneOrderManagement\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\Staff\Rajesh\EST WebProject\OOS\FreshOneOrderManagement\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Staff\Rajesh\EST WebProject\OOS\FreshOneOrderManagement\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\Staff\Rajesh\EST WebProject\OOS\FreshOneOrderManagement\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\Staff\Rajesh\EST WebProject\OOS\FreshOneOrderManagement\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\Working_Folder\Freshoos\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\Working_Folder\Freshoos\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Working_Folder\Freshoos\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\Working_Folder\Freshoos\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\Working_Folder\Freshoos\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\user\Desktop\Freshoos\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\user\Desktop\Freshoos\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\user\Desktop\Freshoos\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\Freshoos\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\user\Desktop\Freshoos\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\ESTSSYS6\Desktop\Freshoos\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\ESTSSYS6\Desktop\Freshoos\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\ESTSSYS6\Desktop\Freshoos\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ESTSSYS6\Desktop\Freshoos\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\ESTSSYS6\Desktop\Freshoos\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\Freshoos\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\Freshoos\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Freshoos\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\Freshoos\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\Freshoos\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\Karthikeyan\Work Space\Working Samples\Web\Freshoos\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\Karthikeyan\Work Space\Working Samples\Web\Freshoos\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Karthikeyan\Work Space\Working Samples\Web\Freshoos\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\Karthikeyan\Work Space\Working Samples\Web\Freshoos\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\Karthikeyan\Work Space\Working Samples\Web\Freshoos\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+G:\Projects\Latest\Freshoos\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+G:\Projects\Latest\Freshoos\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+G:\Projects\Latest\Freshoos\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+G:\Projects\Latest\Freshoos\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+G:\Projects\Latest\Freshoos\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\Karthikeyan\Work Space\Working Samples\Web\Latest\Freshoos\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\Karthikeyan\Work Space\Working Samples\Web\Latest\Freshoos\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Karthikeyan\Work Space\Working Samples\Web\Latest\Freshoos\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\Karthikeyan\Work Space\Working Samples\Web\Latest\Freshoos\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\Karthikeyan\Work Space\Working Samples\Web\Latest\Freshoos\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\Karthikeyan\Work Space\Working Samples\Web\Latest-OOS Design\Freshoos\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\Karthikeyan\Work Space\Working Samples\Web\Latest-OOS Design\Freshoos\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Karthikeyan\Work Space\Working Samples\Web\Latest-OOS Design\Freshoos\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Karthikeyan\Work Space\Working Samples\Web\Latest-OOS Design\Freshoos\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\d\Karthikeyan\Work Space\Working Samples\Web\Latest-OOS Design\Freshoos\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\d\Karthikeyan\Work Space\Working Samples\Web\Latest-OOS Design\Freshoos\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\d\Karthikeyan\Work Space\Working Samples\Web\Latest-OOS Design\Freshoos\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\d\Karthikeyan\Work Space\Working Samples\Web\Latest-OOS Design\Freshoos\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\d\WorkSpace\Source\Web\Latest-OOS Design\Freshoos\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\d\WorkSpace\Source\Web\Latest-OOS Design\Freshoos\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\d\WorkSpace\Source\Web\Latest-OOS Design\Freshoos\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\d\WorkSpace\Source\Web\Latest-OOS Design\Freshoos\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\F1\FreshOneOOS Live\Freshoos\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\F1\FreshOneOOS Live\Freshoos\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\F1\FreshOneOOS Live\Freshoos\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\F1\FreshOneOOS Live\Freshoos\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\ESTSYS3\Desktop\FreshOneBack Up\Freshoos\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\ESTSYS3\Desktop\FreshOneBack Up\Freshoos\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\ESTSYS3\Desktop\FreshOneBack Up\Freshoos\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\ESTSYS3\Desktop\FreshOneBack Up\Freshoos\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\Here it's\Freshoos\Freshoos\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\Here it's\Freshoos\Freshoos\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Here it's\Freshoos\Freshoos\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\Here it's\Freshoos\Freshoos\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\Here it's\FreshOne - OMS_Backup\Source_Edit\Freshoos\Freshoos\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\Here it's\FreshOne - OMS_Backup\Source_Edit\Freshoos\Freshoos\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Here it's\FreshOne - OMS_Backup\Source_Edit\Freshoos\Freshoos\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\Here it's\FreshOne - OMS_Backup\Source_Edit\Freshoos\Freshoos\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\Here it's\FreshOne - OMS_Backup\Source_Edit\Freshoos\Freshoos\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+E:\Projects\eEzyTest\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\Projects\eEzyTest\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Projects\eEzyTest\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\Projects\eEzyTest\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\Projects\eEzyTest\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache

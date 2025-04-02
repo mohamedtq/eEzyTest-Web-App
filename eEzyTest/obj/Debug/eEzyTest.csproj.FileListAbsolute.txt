@@ -1,0 +1,16 @@
+E:\Projects\eEzyTest\eEzyTest\eEzyTest\bin\eEzyTest.dll.config
+E:\Projects\eEzyTest\eEzyTest\eEzyTest\bin\eEzyTest.dll
+E:\Projects\eEzyTest\eEzyTest\eEzyTest\bin\eEzyTest.pdb
+E:\Projects\eEzyTest\eEzyTest\eEzyTest\obj\Debug\eEzyTest.csprojResolveAssemblyReference.cache
+E:\Projects\eEzyTest\eEzyTest\eEzyTest\obj\Debug\eEzyTest.dll
+E:\Projects\eEzyTest\eEzyTest\eEzyTest\obj\Debug\eEzyTest.pdb
+E:\Projects\eEzyTest\eEzyTest\bin\eEzyTest.dll.config
+E:\Projects\eEzyTest\eEzyTest\bin\eEzyTest.dll
+E:\Projects\eEzyTest\eEzyTest\bin\eEzyTest.pdb
+E:\Projects\eEzyTest\eEzyTest\bin\BusinessComponent.dll
+E:\Projects\eEzyTest\eEzyTest\bin\DataAccessLayer.dll
+E:\Projects\eEzyTest\eEzyTest\bin\BusinessComponent.pdb
+E:\Projects\eEzyTest\eEzyTest\bin\DataAccessLayer.pdb
+E:\Projects\eEzyTest\eEzyTest\obj\Debug\eEzyTest.csprojResolveAssemblyReference.cache
+E:\Projects\eEzyTest\eEzyTest\obj\Debug\eEzyTest.dll
+E:\Projects\eEzyTest\eEzyTest\obj\Debug\eEzyTest.pdb

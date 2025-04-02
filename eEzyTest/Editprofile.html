@@ -1,0 +1,216 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<link href="assets/css/Master.css" rel="stylesheet" type="text/css" />
+    <link href="assets/plugins/font-awesome/css/font-awesome.css" rel="stylesheet">
+
+<link href="assets/css/Master.css" rel="stylesheet" type="text/css" />
+<link href="assets/css/jquery-ui.css" rel="stylesheet" type="text/css" />
+<link href="assets/css/bootstrap.css" rel="stylesheet" type="text/css" />
+<link href="assets/css/style.css" rel="stylesheet" type="text/css" />
+
+
+
+<script src="assets/js/jquery.min.js"></script>
+<script src="assets/js/jquery.widget.min.js"></script>
+<script src="assets/js/jquery-1.10.2.js"></script>
+<script src="assets/js/jquery-ui.js"></script>
+
+<script src="assets/js/jquery.leanModal.min.js"></script>
+
+
+<!-- Local JavaScript -->
+
+<link href="/assets/js/style.css" rel="stylesheet" type="text/css" />
+<title>User-profile</title>
+</head>
+<body>
+<div id="background">
+	<div id="labelprofile">
+		<div id="userphoto"><img alt="" src="assets/Logo/nisan.jpg" style="width: 80px;height: 80px;border-radius:50px "/></div>
+		<div id="label">
+			<strong>Username:</strong> <label>Mohamed Nisan Ali</label><br>
+			<strong>Role:</strong> <label>Admin</label><br> <a
+				href="#modal" onclick="getpopup()" id="modal_trigger" style="text-decoration: none;margin-left: -6px;"><div class="fa fa-edit" ></div>Click here to edit
+profile</a></label>
+		</div>
+	</div>
+	<div id="profilearea" >
+	<table width="100%" cellpadding="4%" id="datatable" cellspacing="0" style="font-size: 17px;">
+							<tr>
+								<td ><strong>Firstname</strong></td>
+								<td align="center" width="10">:</td>
+								<td>Mohamed</td>
+								<td><strong>Lastname</strong></td>
+								<td align="center" width="10">:</td>
+								<td>Nisan</td>
+								<td><strong>Gender</strong></td>
+								<td align="center" width="10">:</td>
+								<td>Male</td>
+							</tr>
+							<tr>
+								<td>&nbsp;</td>
+								<td>&nbsp;</td>
+								<td>&nbsp;</td>
+								<td>&nbsp;</td>
+								<td>&nbsp;</td>
+								<td>&nbsp;</td>
+								
+							</tr>
+							<tr>
+								<td><strong>Birthdate</strong></td>
+								<td align="center" width="10">:</td>
+								<td>28/09/1991</td>
+								<td><strong>Address1</strong></td>
+								<td align="center" width="10">:</td>
+								<td>59 Middle</td>
+								<td><strong>Address2</strong></td>
+								<td align="center" width="10">:</td>
+								<td>Kodikkalpalayam</td>
+							</tr>
+							<tr>
+								<td>&nbsp;</td>
+								<td>&nbsp;</td>
+								<td>&nbsp;</td>
+								<td>&nbsp;</td>
+								<td>&nbsp;</td>
+								<td>&nbsp;</td>
+							</tr>
+							<tr>
+								<td><strong>City</strong></td>
+								<td align="center" width="10">:</td>
+								<td>Tiruvarur</td>
+								<td><strong>State</strong></td>
+								<td align="center" width="10">:</td>
+								<td>Tamilnadu</td>
+								<td><strong>Country</strong></td>
+								<td align="center" width="10">:</td>
+								<td>India</td>
+							</tr>
+							<tr>
+								<td>&nbsp;</td>
+								<td>&nbsp;</td>
+								<td>&nbsp;</td>
+								<td>&nbsp;</td>
+								<td>&nbsp;</td>
+								<td>&nbsp;</td>
+							</tr>
+							<tr>
+								<td><strong >Phone No</strong></td>
+								<td align="center" width="10">:</td>
+								<td>9788863237</td>
+								<td><strong>E-mail Id</strong></td>
+								<td align="center" width="10">:</td>
+								<td>mohamednisan@outlook.com</td>
+								<td><strong>Zip code</strong></td>
+								<td align="center" width="10">:</td>
+								<td>610002</td>
+							</tr>
+							
+						</table>	
+	</div>
+	</div>
+	<div id="modal" class="popupContainer" style="display:none;margin-left: -641.5px">
+		<header class="popupHeader">
+				 <table width="75%" cellpadding="10%" id="datatablepopup" cellspacing="0" style="font-size: 17px;margin-left: 60px;background-color: rgb(226, 215, 218);">
+							<tr>
+								<td ><div><img src="icons/user_sign.png" /></div></td>
+								<td align="center" width="10">:</td>
+								<td><input type="text" id="nameProfile"  class="textbox signinup_text signinup_text_eng" placeholder="Firstname"  style="width: 205px;"/></td></td>
+								<td><div><img src="icons/user_sign.png" /></div></td>
+								<td><input type="text" placeholder="Lastname" id="nameProfile" class="textbox signinup_text signinup_text_eng"  style="width: 205px;"/></td>
+								<td><strong>Gender</strong></td>
+								<td><div class="radio">
+										<input type="radio" name="gender" id="maleProfile" checked
+											value="male" /> <label for="maleProfile" 
+											 class="index_label index_label_eng" style="margin-left: -129px;">Male</label> <input type="radio"
+											name="gender" id="femaleProfile" value="female" /> <label
+											for="femaleProfile" style="margin-left: 36px;"  class="index_label index_label_eng">Female</label>
+
+									</div></td>
+							</tr>
+							<tr>
+								
+								
+							</tr>
+							<tr>
+								<td><div><img src="icons/birthday.png" /></td>
+								<td align="center" width="10">:</td>
+								<td><input type="text" placeholder="Birthday" id="datepicker" class="textbox signinup_text signinup_text_eng"  style="width: 205px;"></td>
+								<td><div><img src="icons/road_sign.png" /></div></td>
+								<td><input type="text" placeholder="Address" id="nameProfile" class="textbox signinup_text signinup_text_eng"  style="width: 205px;"/></td>
+								<td><div><img src="icons/road_sign.png" /></div></td>
+								<td><input type="text" placeholder="Address" id="nameProfile" class="textbox signinup_text signinup_text_eng"  style="width: 205px;"/></td>
+							</tr>
+							
+							<tr>
+								<td><div><img src="icons/city_sign.png" /></div></td>
+								<td align="center" width="10">:</td>
+								<td><input type="text" placeholder="City" id="nameProfile" class="textbox signinup_text signinup_text_eng"  style="width: 205px;"/></td>
+								<td><strong>State</strong></td>
+								<td><select placeholder="State" class="textbox signinup_text signinup_text_eng"  style="width: 205px;">
+								<option>India</option>
+								<option>Pakistan</option>
+								</select></td>
+								<td><div><img src="icons/country_sign.png" /></div></td>
+								<td><select class="textbox signinup_text signinup_text_eng"  style="width: 205px;">
+								<option>India</option>
+								<option>Pakistan</option>
+								</select></td>
+							</tr>
+						
+							<tr>
+								<td><div><img src="icons/mobile_sign.png" /></div></td>
+								<td align="center" width="10">:</td>
+								<td><input type="text" id="nameProfile" onKeyPress="return isNumberKey(event)" placeholder="Phone number" class="textbox signinup_text signinup_text_eng"  style="width: 205px;"/></td>
+								<td><div><img src="icons/mail_sign.png" /></div></td>
+								<td><input type="text" id="nameProfile" placeholder="Email" class="textbox signinup_text signinup_text_eng"  style="width: 205px;"/></td>
+								<td><div><img src="icons/country_sign.png" /></div></td>
+								<td><input type="text" id="nameProfile" onKeyPress="return isNumberKey(event)" placeholder="Zip code" class="textbox signinup_text signinup_text_eng"  style="width: 205px;"/></td>
+							</tr>
+							
+							<tr>
+								<td><div class="fa fa-upload" style="font-size: 2em" ></div></td>
+								<td align="center" width="10">:</td>
+								<td><input type="file"   class="textbox signinup_text signinup_text_eng"   style="width: 180px;hbackground-color: white;height: 19px" /></td>
+								<td></td>
+								<td><button onclick="" class="btn" style="width: 100px;border-radius:0px;">Save</button></td>
+								<td><button onclick="closepopup();" class="btn" style="width: 100px;border-radius:0px;margin-left: -122px">Cancel</button></td>
+								
+
+							</tr>
+						</table>	
+                            </header>
+               </div>
+	<script type="text/javascript">
+<!--
+$(function() {
+    $( "#datepicker" ).datepicker();
+  });
+
+$("#modal_trigger").leanModal({top : 200,right:30, overlay : 0.6, closeButton: ".modal_close" });
+
+//-->: 
+function getpopup(){
+	$("#background").css({
+		"opacity" : "0.2"
+	});
+}
+function closepopup(){
+	$("#modal").fadeOut();
+	$("#background").css({
+		"opacity" : "1"
+	});
+}
+function isNumberKey(evt) {
+	var charCode = (evt.which) ? evt.which : event.keyCode;
+	if (charCode != 46 && charCode > 31 && (charCode < 48 || charCode > 57)) {
+		return false;
+	} else {
+		return true;
+	}
+}
+</script>
+</body>
+</html>

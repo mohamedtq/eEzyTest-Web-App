@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eEzyTest", "eEzyTest\eEzyTest.csproj", "{7D8EB51C-0E87-4C6D-B1BA-2ADFB578AA15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessComponent", "BusinessComponent\BusinessComponent.csproj", "{9FB74E31-6298-4853-BBB9-E0E704077D50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{B2A53CF8-BC23-4933-959C-FB69B676BDAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D8EB51C-0E87-4C6D-B1BA-2ADFB578AA15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D8EB51C-0E87-4C6D-B1BA-2ADFB578AA15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D8EB51C-0E87-4C6D-B1BA-2ADFB578AA15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D8EB51C-0E87-4C6D-B1BA-2ADFB578AA15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FB74E31-6298-4853-BBB9-E0E704077D50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FB74E31-6298-4853-BBB9-E0E704077D50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FB74E31-6298-4853-BBB9-E0E704077D50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FB74E31-6298-4853-BBB9-E0E704077D50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2A53CF8-BC23-4933-959C-FB69B676BDAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2A53CF8-BC23-4933-959C-FB69B676BDAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2A53CF8-BC23-4933-959C-FB69B676BDAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2A53CF8-BC23-4933-959C-FB69B676BDAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
